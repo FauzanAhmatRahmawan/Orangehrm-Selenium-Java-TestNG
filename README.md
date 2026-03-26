@@ -64,9 +64,9 @@ The following end-to-end test scenarios are automated:
 Test configuration is managed using:
 
 Example:
-baseUrl=https://opensource-demo.orangehrmlive.com/
-username=Admin
-password=admin123
+- baseUrl=https://opensource-demo.orangehrmlive.com/
+- username=Admin
+- password=admin123
 
 This allows better flexibility and avoids hardcoded credentials.
 
