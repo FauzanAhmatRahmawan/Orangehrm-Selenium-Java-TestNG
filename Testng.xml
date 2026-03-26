@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Suite">
+
+    <test name="Regression Test">
+
+        <classes>
+            <class name="com.qa.test.TestCase.LoginTest"/>
+            <class name="com.qa.test.TestCase.AddUserTest"/>
+            <class name="com.qa.test.TestCase.DeleteUserTest"/>
+        </classes>
+
+    </test>
+
+</suite>
